@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.9">
+  <POU Name="MAIN" Id="{9aac65e6-bd88-4209-bd4f-d67524c3f621}" SpecialFunc="None">
+    <Declaration><![CDATA[PROGRAM MAIN
+VAR
+	first : StructWith50Variables;
+	second : StructWith5Variables;
+	third : StructWith68Variables;
+	
+	
+	ShouldBe5 : INT;
+	ShouldBe68 :INT;
+	ShouldBe50 :INT; 
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[//external programm will write to variables ShouldBe5, ShouldBe68, ShouldBe50]]></ST>
+    </Implementation>
+  </POU>
+</TcPlcObject>

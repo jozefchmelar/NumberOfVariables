@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.9">
+  <DUT Name="StructWith5Variables" Id="{2a0230fc-94eb-4c80-b143-d357cdc0c993}">
+    <Declaration><![CDATA[TYPE
+    StructWith5Variables :
+    STRUCT
+        Variable1 : INT;
+        Variable2 : INT;
+        Variable3 : INT;
+        Variable4 : INT;
+        Variable5 : INT;
+    END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>

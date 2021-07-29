@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.9">
+  <DUT Name="StructWith68Variables" Id="{c13485ea-201f-4b72-af77-1986c2689d8d}">
+    <Declaration><![CDATA[TYPE
+    StructWith68Variables :
+    STRUCT
+        Variable1 : STRING;
+        Variable2 : STRING;
+        Variable3 : STRING;
+        Variable4 : STRING;
+        Variable5 : STRING;
+        Variable6 : STRING;
+        Variable7 : STRING;
+        Variable8 : STRING;
+        Variable9 : STRING;
+        Variable10 : STRING;
+        Variable11 : STRING;
+        Variable12 : STRING;
+        Variable13 : STRING;
+        Variable14 : STRING;
+        Variable15 : STRING;
+        Variable16 : STRING;
+        Variable17 : STRING;
+        Variable18 : STRING;
+        Variable19 : STRING;
+        Variable20 : STRING;
+        Variable21 : STRING;
+        Variable22 : STRING;
+        Variable23 : STRING;
+        Variable24 : STRING;
+        Variable25 : STRING;
+        Variable26 : STRING;
+        Variable27 : STRING;
+        Variable28 : STRING;
+        Variable29 : STRING;
+        Variable30 : STRING;
+        Variable31 : STRING;
+        Variable32 : STRING;
+        Variable33 : STRING;
+        Variable34 : STRING;
+        Variable35 : STRING;
+        Variable36 : STRING;
+        Variable37 : STRING;
+        Variable38 : STRING;
+        Variable39 : STRING;
+        Variable40 : STRING;
+        Variable41 : STRING;
+        Variable42 : STRING;
+        Variable43 : STRING;
+        Variable44 : STRING;
+        Variable45 : STRING;
+        Variable46 : STRING;
+        Variable47 : STRING;
+        Variable48 : STRING;
+        Variable49 : STRING;
+        Variable50 : STRING;
+        Variable51 : STRING;
+        Variable52 : STRING;
+        Variable53 : STRING;
+        Variable54 : STRING;
+        Variable55 : STRING;
+        Variable56 : STRING;
+        Variable57 : STRING;
+        Variable58 : STRING;
+        Variable59 : STRING;
+        Variable60 : STRING;
+        Variable61 : STRING;
+        Variable62 : STRING;
+        Variable63 : STRING;
+        Variable64 : STRING;
+        Variable65 : STRING;
+        Variable66 : STRING;
+        Variable67 : STRING;
+        Variable68 : STRING;
+    END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>

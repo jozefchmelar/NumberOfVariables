@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.9">
+  <DUT Name="StructWith50Variables" Id="{a3b097e8-1840-454b-a2d8-47d8772c9361}">
+    <Declaration><![CDATA[TYPE
+    StructWith50Variables :
+    STRUCT
+        Variable1 : INT;
+        Variable2 : INT;
+        Variable3 : INT;
+        Variable4 : INT;
+        Variable5 : INT;
+        Variable6 : INT;
+        Variable7 : INT;
+        Variable8 : INT;
+        Variable9 : INT;
+        Variable10 : INT;
+        Variable11 : INT;
+        Variable12 : INT;
+        Variable13 : INT;
+        Variable14 : INT;
+        Variable15 : INT;
+        Variable16 : INT;
+        Variable17 : INT;
+        Variable18 : INT;
+        Variable19 : INT;
+        Variable20 : INT;
+        Variable21 : INT;
+        Variable22 : INT;
+        Variable23 : INT;
+        Variable24 : INT;
+        Variable25 : INT;
+        Variable26 : INT;
+        Variable27 : INT;
+        Variable28 : INT;
+        Variable29 : INT;
+        Variable30 : INT;
+        Variable31 : INT;
+        Variable32 : INT;
+        Variable33 : INT;
+        Variable34 : INT;
+        Variable35 : INT;
+        Variable36 : INT;
+        Variable37 : INT;
+        Variable38 : INT;
+        Variable39 : INT;
+        Variable40 : INT;
+        Variable41 : INT;
+        Variable42 : INT;
+        Variable43 : INT;
+        Variable44 : INT;
+        Variable45 : INT;
+        Variable46 : INT;
+        Variable47 : INT;
+        Variable48 : INT;
+        Variable49 : INT;
+        Variable50 : INT;
+    END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>
